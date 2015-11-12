@@ -21,15 +21,15 @@ Most of your apps code will live in component folders inside of app.  Apps can b
 
 ### Components
 
-Components contain several standard folders.
+Components contain severial standard folders.
 
 | name            | description                                                      |
 |-----------------|------------------------------------------------------------------|
 | assets          | your static assets: css, js, image, font, etc...                 |
 | config          | component specific configuration and dependency management       |
-| controllers     | Classes that orchestrate the presentation of the UI and connecting it to the models |
-| lib             | Additional ruby code needed for the comonent                     |
+| controllers     | Classes that orchistrate the presentation of the UI and connecting it to the models |
+| lib             | Additional ruby code needed for the component                     |
 | models          | Classes that manage data, permissions, validations, and business logic |
 | views           | html files that are rendered on the browser to show the app      |
 
-The next sections of the doc's will take you through each of the parts of components before covering components in more detail.
+The next sections of these docs will take you through each of the parts of components before covering components in more detail.
